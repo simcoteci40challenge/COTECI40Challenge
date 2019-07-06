@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "node-red-contrib-message-counter": "~1.0.1",
+    "node-red-contrib-wait-paths": "~0.3.2",
     "node-red-contrib-wfwatch": "0.0.1",
     "node-red-node-data-generator": "0.0.5",
     "node-red-node-email": "1.6.2"

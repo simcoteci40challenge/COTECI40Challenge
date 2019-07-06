@@ -38,7 +38,8 @@ module.exports = {
         title: 'COTEC I4.0 Challenge'
       },
       header: {
-        title: 'COTEC I4.0 Challenge'
+        title: 'COTEC I4.0 Challenge',
+		image: '__dirname + ..\\logo\\logo.png'	
       },
       logout: {
         redirect: "/"
