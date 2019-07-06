@@ -1,0 +1,12 @@
+{
+  "name": "cotec_i40_challenge",
+  "description": "NodeRed - COTEC I4.0 Challenge",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-red-contrib-message-counter": "~1.0.1",
+    "node-red-contrib-wfwatch": "0.0.1",
+    "node-red-node-data-generator": "0.0.5",
+    "node-red-node-email": "1.6.2"
+  }
+}

@@ -1,0 +1,16 @@
+# IntelliJ:
+.idea/
+*.iml
+
+# Node
+node_modules/
+package-lock.json
+
+#Plugins
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.npmignore
+
+# APP

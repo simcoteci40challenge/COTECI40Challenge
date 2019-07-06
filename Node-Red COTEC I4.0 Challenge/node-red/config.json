@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "projects": {
+      "COTEC I4.0 Challenge": {
+        "credentialSecret": false
+      }
+    },
+    "activeProject": "COTEC I4.0 Challenge"
+  }
+}
